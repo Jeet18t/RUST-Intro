@@ -16,10 +16,10 @@
 
 ## Initialise a project:
 
-- Intialise:  ```cargo init```
-- Build:  ```cargo build```
-- Compile (no building, faster):  ```cargo check```
-- Run:  ```cargo run```
+### Intialise:  ```cargo init```
+### Build:  ```cargo build```
+### Compile (no building, faster):  ```cargo check```
+### Run:  ```cargo run```
 
-- Intialise a library:  ```cargo init --lib```
-- Build for Release:  ```cargo build --release```
+### Intialise a library:  ```cargo init --lib```
+### Build for Release:  ```cargo build --release```
